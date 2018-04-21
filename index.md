@@ -1,46 +1,24 @@
-## Welcome to GitHub Pages
-# Site settings
-title: You Blog                     #你博客的标题
-SEOTitle: 你的博客 | You Blog        #显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
-email: You@gmail.com    
-description: "You Blog"              #网站介绍
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone" #关键词
-url: "https://qiubaiying.github.io"          # 这个就是填写你的博客地址
-baseurl: ""      # 这个我们不用填写
+layout:     post                    # 使用的布局（不需要改）
+title:      My First Post           # 标题 
+subtitle:   Hello ，万严 ！            #副标题
+date:       2018-04-21              # 时间
+author:     婉儿                     # 作者
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - 爱情
+---
 
-You can use the [editor on GitHub](https://github.com/zwe7616175/zwe7616175.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Hey
+>这是我的第一篇博客。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+真正的爱情不是一时的好感 而是明知道没有结果 还有坚持下去的冲动 因为我知道遇见你不容易 错过了会可惜
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+终将要把爱归还，浮萍一生
+在车马往后的秋天和原野
+无关风起 无端想你
 
-```markdown
-Syntax highlighted code block
+我，牵你玉手，收你此生所有
+我，抚尔秀颈，挡你此生所有
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zwe7616175/zwe7616175.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
